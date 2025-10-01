@@ -46,6 +46,12 @@ Please review these planning documents:
 - **[T-007: Admin Configuration](planning/tasks/T-007-admin-configuration.md)** - Django admin setup
 - **[T-008: Docker Deployment](planning/tasks/T-008-docker-deployment.md)** - Production deployment config
 
+### Wireframes (Visual Layouts)
+- **[Wireframes Overview](planning/wireframes/README.md)** - Complete visual guide
+- **[Homepage - Desktop](planning/wireframes/01-homepage-desktop.txt)** - Homepage layout with property cards
+- **[Property Detail - Desktop](planning/wireframes/02-property-detail-desktop.txt)** - Individual property page with carousel
+- **[Mobile Views](planning/wireframes/03-mobile-views.txt)** - Responsive mobile layouts
+
 ---
 
 ## Key Design Decisions
